@@ -9,3 +9,7 @@ Como instalar?
 2. Rode o comando ```sh pip install -r requirements.txt ```
 3. Rode o comando ```sh streamlit run main.py```
 4. Abra a página web pelo localhost gerado no log do terminal ex: http://localhost:8501
+
+Como deverá ficar:
+
+![img.png](img.png)
