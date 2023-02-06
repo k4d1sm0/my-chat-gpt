@@ -21,7 +21,7 @@ def generate_response(prompt):
     return message
 
 
-st.title("Victor's ChatGPT")
+st.title("My ChatGPT")
 # storing the chat
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
