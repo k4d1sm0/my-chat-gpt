@@ -1,7 +1,9 @@
 ## Como instalar?
 
 Requisitos:
+
 Python >=3.8
+
 Chave de API do OpenAPI consiga uma em: https://platform.openai.com/account/api-keys
 
 Como instalar?
